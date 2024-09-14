@@ -1,6 +1,6 @@
 # training-disclosure
 A voluntary disclosure of use of LLM(s) or other "trained" tools.
 
-Example: See <https://raw.githubusercontent.com/Hierosoft/hierosoft-logistics/main/docs/development/training_disclosure.md>
+Training Disclosure template: See [training-disclosure-github-template.md](training-disclosure-github-template.md)
 
-Template: See template file(s) in this folder.
+Example: See <https://raw.githubusercontent.com/Hierosoft/hierosoft-logistics/main/docs/development/training_disclosure.md>
