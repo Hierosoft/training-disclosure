@@ -29,4 +29,4 @@ Scope of use: [explain content types and scope used for each type here and how m
 - modification: [how modified, or unmodified: only if differs from modification description in main section, otherwise leave out this line]
 
 [prompt]
-[then blank line between each prompt used for this piece of content, adding a new date if known as a markdown list item with a blank line above and below it]
+[then blank line between each prompt used for this piece of content, adding a new date if known as a markdown list item with a blank line above and below it. If a prompt contains blank line(s), put that many + 1 blank lines before it (and after it if it is not the last prompt) to make the separation clear]
