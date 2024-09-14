@@ -20,5 +20,7 @@ Scope of use: [explain content types and scope used for each type here and how m
 ### submodule name (if any)
 #### deeper level (if any)
 
+- [date used if known, otherwise leave out this line]
+
 [prompt]
-[then blank line between each prompt used for this piece of content]
+[then blank line between each prompt used for this piece of content, adding a new date if known as a markdown list item with a blank line above and below it]
