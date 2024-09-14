@@ -12,7 +12,7 @@ Subsections of this document contain prompts used to generate content, in a way 
 tool(s) used:
 [list names, versions and location(s) (such as url(s)) here in a markdown list item for each]
 
-Scope of use: [explain content types and scope used for each type here and how modified by humans(s) and names of them]
+Scope of use: [explain content types and scope used for each type here and how modified by humans(s) if known, or say unmodified if unmodified]
 
 [for each piece of content, make a section and/or subsection below as necessary to identify the piece of content clearly, and in each, write prompts used, or write (unknown prompt). Also write the name of the tool used if more than one was used for the project]
 
@@ -21,6 +21,10 @@ Scope of use: [explain content types and scope used for each type here and how m
 #### deeper level (if any)
 
 - [date used if known, otherwise leave out this line]
+
+- [tool used, if multiple tools are listed in this document]
+
+- modification: [how modified, or unmodified: only if differs from modification description in main section, otherwise leave out this line]
 
 [prompt]
 [then blank line between each prompt used for this piece of content, adding a new date if known as a markdown list item with a blank line above and below it]
