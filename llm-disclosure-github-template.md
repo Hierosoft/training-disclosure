@@ -13,6 +13,7 @@ tool(s) used:
 [list names, versions and location(s) (such as url(s)) here in a markdown list item for each]
 
 Scope of use: [explain content types and scope used for each type here and how modified by humans(s) if known, or say unmodified if unmodified]
+- other prompts and human modifications were used that are not listed in this document [if all are listed in this document, leave this line out]
 
 [for each piece of content, make a section and/or subsection below as necessary to identify the piece of content clearly, and in each, write prompts used, or write (unknown prompt). Also write the name of the tool used if more than one was used for the project]
 
