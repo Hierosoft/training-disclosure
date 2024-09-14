@@ -1,7 +1,13 @@
 # Training Disclosure for {{ project }}
-This Training Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this document"), is based on Training Disclosure version 1.0.0 at https://github.com/Hierosoft/training-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the editor of this copy of the document unless this copy is the original which among other places I, Jake Gustafson, state IANAL. This document is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license.
+This Training Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this document"), is based on Training Disclosure version 1.0.0 at https://github.com/Hierosoft/training-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the editor of this copy of the document unless this copy is the original which among other places I, Jake Gustafson, state IANAL. The original document is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license, but regarding any text that differs from the original:
 
-Document editor(s): {{ organization }} (machine(s)/human(s)) [if only human, remove machine from this line, and if machine, remove human from this line, as pertains to editing this document itself not the project]
+This document also functions as a claim of copyright to the scope described in the paragraph below since potentially in some jurisdictions output not of direct human origin, by certain means of generation at least, may not be copyrightable (again, IANAL):
+
+The project author(s) hereby claim copyright and claim direct human origin to any and all content in the subsections of this document, where scope is defined to the best of the editor's ability, including the subsection names themselves, unless where stated, and unless implied such as by context, being copyrighted or trademarked elsewere, or other means of statement or implication according to law in applicable jurisdiction(s).
+
+Document editor(s): {{ organization }} (human(s)) [if a machine is reading or writing this document, remove human from this line, as pertains to editing this document itself not the project, and put name and version of machine or generative software]
+
+Project author(s): See accompanying content in project.
 
 This document is a voluntary of how and where content in or used by this project was produced by LLM(s) or any tools that are "trained" in any way.
 
