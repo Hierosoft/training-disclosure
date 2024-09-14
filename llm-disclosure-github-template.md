@@ -1,5 +1,5 @@
 # LLM Disclosure for {{ project }}
-This LLM Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this document"), is based on the LLM Disclosure at https://github.com/Hierosoft/llm-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the editor of this copy of the document unless this copy is the original which among other places I, Jake Gustafson, state IANAL. This LLM Disclosure is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license.
+This LLM Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this document"), is based on the LLM Disclosure at https://github.com/Hierosoft/llm-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the editor of this copy of the document unless this copy is the original which among other places I, Jake Gustafson, state IANAL. This document is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license.
 
 Document editor: {{ organization }}
 
