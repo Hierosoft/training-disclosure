@@ -1,5 +1,5 @@
 # Training Disclosure for {{ project }}
-This Training Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this disclosure"), is based on **Training Disclosure version 1.1.4** at https://github.com/Hierosoft/training-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the disclosure editor(s) of this copy of the disclosure unless this copy is the original which among other places I, Jake Gustafson, state IANAL. The original disclosure is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license, but regarding any text that differs from the original:
+This Training Disclosure, which may be more specifically titled above here (and in this document possibly referred to as "this disclosure"), is based on **Training Disclosure version 2.0.0** at https://github.com/Hierosoft/training-disclosure by Jake Gustafson. Jake Gustafson is probably *not* an author of the project unless listed as a project author, nor necessarily the disclosure editor(s) of this copy of the disclosure unless this copy is the original which among other places I, Jake Gustafson, state IANAL. The original disclosure is released under the [CC0](https://creativecommons.org/public-domain/cc0/) license, but regarding any text that differs from the original:
 
 This disclosure also functions as a claim of copyright to the scope described in the paragraph below since potentially in some jurisdictions output not of direct human origin, by certain means of generation at least, may not be copyrightable (again, IANAL):
 
@@ -24,8 +24,8 @@ Scope of use: [explain content types and scope used for each type here and how m
 
 [for each piece of content, make a section and/or subsection below as necessary to identify the piece of content clearly, and in each, write prompts used, or write (unknown prompt). Also write the name of the tool used if more than one was used for the project]
 
-## {{ project }} (or replace this with module name)
-### submodule name (if any)
+## file or folder
+### subfolder or file in folder (if any)
 #### deeper level (if any)
 
 - [date used if known, otherwise leave out this line]
